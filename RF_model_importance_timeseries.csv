@@ -1,0 +1,103 @@
+Feature,Importance,Type
+Adress_Count,0.042928,7-30 days
+weekday_cl_3,0.038309,7-30 days
+month_cl_1,0.035576,7-30 days
+month_cl_2,0.034196,7-30 days
+Residential Premises,0.031858,7-30 days
+time_cl_1,0.031182,7-30 days
+month_cl_0,0.030422,7-30 days
+weekday_cl_0,0.027464,7-30 days
+time_cl_0,0.024844,7-30 days
+time_cl_2,0.022563,7-30 days
+year_month_cl_0,0.022535,7-30 days
+Street,0.019802,7-30 days
+year_month_cl_1,0.019746,7-30 days
+weekday_cl_2,0.017718,7-30 days
+year_month_cl_2,0.016366,7-30 days
+weekday_cl_1,0.014535,7-30 days
+Commercial Premises,0.011802,7-30 days
+Building Site,0.008253,7-30 days
+bef_30_365days_count,0.006648,7-30 days
+LSOA_Count,0.005042,7-30 days
+Weekday,0.004901,7-30 days
+days,0.004507,7-30 days
+Time,0.004028,7-30 days
+Property Alarm,0.003915,7-30 days
+bef_7_30days_count,0.002338,7-30 days
+bef_2_7days_count,0.002113,7-30 days
+Month,0.002084,7-30 days
+bef_todays_count,0.001803,7-30 days
+Season,0.001239,7-30 days
+bef_365_begindays_count,0.001211,7-30 days
+bef_yesterday_count,0.000817,7-30 days
+Non Noise Complaint (45m),0.000169,7-30 days
+Email Complaint (1d),0.000028,7-30 days
+Year,-0.000056,7-30 days
+Adress_Count,0.167319,2-7 days
+time_cl_1,0.023649,2-7 days
+month_cl_2,0.018724,2-7 days
+time_cl_0,0.015863,2-7 days
+time_cl_2,0.015682,2-7 days
+month_cl_1,0.013509,2-7 days
+Street,0.013146,2-7 days
+month_cl_0,0.012386,2-7 days
+bef_2_7days_count,0.011336,2-7 days
+year_month_cl_0,0.011155,2-7 days
+weekday_cl_3,0.011082,2-7 days
+Residential Premises,0.010648,2-7 days
+bef_30_365days_count,0.010611,2-7 days
+bef_365_begindays_count,0.009959,2-7 days
+year_month_cl_2,0.009706,2-7 days
+year_month_cl_1,0.00909,2-7 days
+Commercial Premises,0.008366,2-7 days
+bef_7_30days_count,0.0067,2-7 days
+Time,0.006483,2-7 days
+weekday_cl_0,0.00641,2-7 days
+Building Site,0.006265,2-7 days
+bef_todays_count,0.006229,2-7 days
+days,0.003803,2-7 days
+Weekday,0.003694,2-7 days
+bef_yesterday_count,0.003368,2-7 days
+weekday_cl_2,0.003332,2-7 days
+weekday_cl_1,0.002463,2-7 days
+Property Alarm,0.001666,2-7 days
+LSOA_Count,0.000652,2-7 days
+Month,0.000326,2-7 days
+Non Noise Complaint (45m),0.000036,2-7 days
+Email Complaint (1d),0.000036,2-7 days
+Year,-0.000362,2-7 days
+Season,-0.000833,2-7 days
+Adress_Count,0.077685,0-2 days
+time_cl_1,0.034592,0-2 days
+month_cl_2,0.026092,0-2 days
+Street,0.024753,0-2 days
+time_cl_0,0.021889,0-2 days
+time_cl_2,0.021359,0-2 days
+weekday_cl_3,0.018993,0-2 days
+month_cl_1,0.018215,0-2 days
+Residential Premises,0.01781,0-2 days
+month_cl_0,0.017,0-2 days
+year_month_cl_1,0.016471,0-2 days
+year_month_cl_0,0.015661,0-2 days
+bef_30_365days_count,0.015039,0-2 days
+Commercial Premises,0.014323,0-2 days
+bef_7_30days_count,0.013451,0-2 days
+weekday_cl_0,0.01289,0-2 days
+bef_2_7days_count,0.012019,0-2 days
+year_month_cl_2,0.011645,0-2 days
+Time,0.010804,0-2 days
+weekday_cl_2,0.010368,0-2 days
+days,0.009964,0-2 days
+Building Site,0.009746,0-2 days
+bef_365_begindays_count,0.008002,0-2 days
+Weekday,0.007161,0-2 days
+weekday_cl_1,0.006601,0-2 days
+Month,0.005667,0-2 days
+LSOA_Count,0.005573,0-2 days
+Year,0.004172,0-2 days
+Season,0.004048,0-2 days
+bef_todays_count,0.002429,0-2 days
+Property Alarm,0.001993,0-2 days
+bef_yesterday_count,0.00193,0-2 days
+Non Noise Complaint (45m),0,0-2 days
+Email Complaint (1d),0,0-2 days
